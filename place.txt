@@ -1,0 +1,33 @@
+243cc16f6417a167,Hyderabad,India,IN,city,"Hyderabad, Andhra Pradesh",null
+2b33d087b3c7aa9e,Ziro,India,IN,city,"Ziro, Arunachal Pradesh",null
+1b8680cd52a711cb,Bengaluru,India,IN,city,"Bengaluru, Karnataka",null
+5f55bb82cf16ac81,Bengaluru South,India,IN,city,"Bengaluru South, Karnataka",null
+7929cea6bd5b32bd,Mumbai,India,IN,city,"Mumbai, Maharashtra",null
+317fcc4b21a604d5,New Delhi,India,IN,city,"New Delhi, Delhi",null
+753b065e4195d122,Cochin,India,IN,city,"Cochin, Kerala",null
+594fa6c6bc5b5ba9,Minato-ku,??,JP,city,"Minato, Tokyo",null
+001907e868d06e24,Dubai,???????? ??????? ???????,AE,admin,"Dubai, United Arab Emirates",null
+94965b2c45386f87,New York,United States,US,admin,"New York, USA",null
+5c2b5e46ab891f07,Las Vegas,United States,US,city,"Las Vegas, NV",null
+00f751614d8ce37b,Richmond,United States,US,city,"Richmond, VA",null
+01864a8a64df9dc4,Melbourne,Australia,AU,city,"Melbourne, Victoria",null
+0b0917a852d091a7,Chaska,United States,US,city,"Chaska, MN",null
+58a4c3a0d54e1400,Central Region,Singapore,SG,admin,"Central Region, Singapore",null
+0b37664066a8962a,West Region,Singapore,SG,admin,"West Region, Singapore",null
+5f1f473ed6455f55,North-East Region,Singapore,SG,admin,"North-East Region, Singapore",null
+6635b2fcebd13c64,East Region,Singapore,SG,admin,"East Region, Singapore",null
+14d9532bd696d8cb,North Region,Singapore,SG,admin,"North Region, Singapore",null
+0b37664066a8962a,West Region,Singapore,SG,admin,"West Region, Singapore",null
+c3f37afa9efcf94b,Austin,United States,US,city,"Austin, TX",null
+64231a922dea526e,Gurgaon,India,IN,city,"Gurgaon, Haryana",null
+1c69a67ad480e1b1,Houston,United States,US,city,"Houston, TX",null
+151b9e91272233d1,Liverpool,United Kingdom,GB,city,"Liverpool, England",null
+3b77caf94bfc81fe,Los Angeles,United States,US,city,"Los Angeles, CA",null
+1ea588c12abd39d7,Milan,Italia,IT,city,"Milan, Lombardy",null
+1c6f6ddd307f941d,Looe,United Kingdom,GB,city,"Looe, England",null
+e4a0d228eb6be76b,Philadelphia,United States,US,city,"Philadelphia, PA",null
+011add077f4d2da3,Brooklyn,United States,US,city,"Brooklyn, NY",null
+00c39537733fa112,Queens,United States,US,city,"Queens, NY",null
+28efe4bb73fff781,Winchester,United Kingdom,GB,city,"Winchester, England",null
+4588ecc0818b8129,Church Fenton,United Kingdom,GB,city,"Church Fenton, England",null
+4516bcae4ad207f1,Whistler,Canada,CA,city,"Whistler, British Columbia",null

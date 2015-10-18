@@ -1,0 +1,44 @@
+Database Schema :
+
+Status :
+
+Date-		getCreatedAt()
+int- 		getFavouriteCount()
+(lat,long)- getGeoLocation()
+long-		getId()
+String-		getLang()
+Place-		getPlace()                    ----> store place in place table .... relation b/w place n status
+long-		getRetweetCount()
+String-		getText()
+User-		getUser()                     ----> store the user data in user table ....relation b/w user n status
+boolean- 	isPossiblySensitive()
+boolean-	isRetweeted()
+Status-		getQuotedstatus() 
+String[]- 	getWithheldInCountries()
+
+
+Place :
+
+String- 	getName()
+String-		getId()
+String-		getCountry()
+String-		getCountryCode()
+String-		getPlaceType()
+String-		getFullName()
+String-		getStreetAddress()
+
+User :
+
+Date-		getCreatedAt()
+String-		getDescription()
+int-		getFollowersCount()
+int-		getFriendsCount()	...following count
+long-		getId()
+String-		getLang()
+String-		getLocation()
+String-		getName()
+String-		getScreenName()
+int-		getStatusesCount()
+Status-		getStatus()
+boolean-	isVerified()
+
